@@ -9,8 +9,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-//Add feat main 1
-        // 2 b f
+
 
 
     }
